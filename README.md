@@ -47,9 +47,9 @@ cd tesseract-rotation
 Run the script:
 ```
 python tesseract.py
-out_gif = r"C:\path\to\tesseract_rotation.gif"
+To save the gif : out_gif = r"C:\path\to\tesseract_rotation.gif"
 ```
-🎥 Inspiration
+<h1>🎥 Inspiration</h1>
 
 This project draws inspiration from the Tesseract Scene in Interstellar (2014), where time and space intersect in higher dimensions.
 “To perceive beyond our three dimensions is to step into the realm of the impossible — until mathematics shows us the way.”
