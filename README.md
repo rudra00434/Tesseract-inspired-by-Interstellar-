@@ -38,7 +38,26 @@ This animation shows that projection while applying multiple 4D rotations.
 ## 🛠 Installation
 
 1. **Clone this repository**
-```bash
+```
 git clone https://github.com/yourusername/tesseract-rotation.git
 cd tesseract-rotation
+```
+## ▶ Usage
+
+Run the script:
+```
+python tesseract.py
+out_gif = r"C:\path\to\tesseract_rotation.gif"
+```
+🎥 Inspiration
+
+This project draws inspiration from the Tesseract Scene in Interstellar (2014), where time and space intersect in higher dimensions.
+“To perceive beyond our three dimensions is to step into the realm of the impossible — until mathematics shows us the way.”
+
+<h1>📚 Mathematics & Physics</h1>
+
+Vertices: All points with coordinates (±1, ±1, ±1, ±1) in 4D space.
+Edges: Pairs of vertices differing by exactly one coordinate.
+Rotation: Applied via 4×4 rotation matrices in different 2D planes of 4D space.
+Projection: Perspective transformation from 4D to 3D.
 
