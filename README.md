@@ -60,4 +60,7 @@ Vertices: All points with coordinates (±1, ±1, ±1, ±1) in 4D space.
 Edges: Pairs of vertices differing by exactly one coordinate.
 Rotation: Applied via 4×4 rotation matrices in different 2D planes of 4D space.
 Projection: Perspective transformation from 4D to 3D.
+# Visuals 
+<img width="1861" height="909" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/18ea96d2-aa25-465d-bb6f-5c0731691af8" />
+<img width="1920" height="979" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/cf728b3f-a30d-49f9-8477-04cf1ef3ea0f" />
 
